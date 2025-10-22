@@ -99,5 +99,3 @@ If you find the tutorials helpful, please cite this course as:
    :caption: Getting started:
 
    tutorial_notebooks/getting_started_with_jupyter_and_python/getting_started_with_jupyter_and_python
-   tutorial_notebooks/discover_visualize_gain_insights/discover_visualize_gain_insights
-

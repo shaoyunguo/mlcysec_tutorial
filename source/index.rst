@@ -46,6 +46,7 @@ Prefer to use a hosted environment or want GPU support? Use [Google Colab](https
 ===================
 
 The **Exercise Schedule** (below) lists the practical/tutorial sessions associated with the course tutorials.
+The sessions will take place in **CISPA Lecture Hall, Stuhlsatzenhaus 5**.
 
 +------------+------------+------------------------------------------------+
 | **Date**   | **Time**   | **Topic**                                      |

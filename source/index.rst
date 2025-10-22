@@ -100,3 +100,5 @@ If you find the tutorials helpful, please cite this course as:
 
    tutorial_notebooks/getting_started_with_jupyter_and_python/getting_started_with_jupyter_and_python
    tutorial_notebooks/discover_visualize_gain_insights/discover_visualize_gain_insights
+   tutorial_notebooks/getting_started_with_ml/getting_started_with_ml
+   tutorial_notebooks/getting_started_with_deep_learning/getting_started_with_deep_learning

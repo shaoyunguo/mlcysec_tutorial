@@ -103,3 +103,17 @@ If you find the tutorials helpful, please cite this course as:
    tutorial_notebooks/discover_visualize_gain_insights/discover_visualize_gain_insights
    tutorial_notebooks/getting_started_with_ml/getting_started_with_ml
    tutorial_notebooks/getting_started_with_deep_learning/getting_started_with_deep_learning
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Tutorial 2: Intrusion Detection and Response Systems:
+
+
+   .. toctree::
+   :maxdepth: 2
+   :caption: Tutorial 2: Evading Machine Learning-based IDS:
+
+
+   .. toctree::
+   :maxdepth: 2
+   :caption: Tutorial 4: ML in the hands of Attackers (CTF):

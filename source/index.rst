@@ -112,7 +112,7 @@ If you find the tutorials helpful, please cite this course as:
 
    .. toctree::
    :maxdepth: 2
-   :caption: Tutorial 2: Evading Machine Learning-based IDS:
+   :caption: Tutorial 3: Evading Machine Learning-based IDS:
 
 
    .. toctree::

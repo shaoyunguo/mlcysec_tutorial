@@ -106,14 +106,14 @@ If you find the tutorials helpful, please cite this course as:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Tutorial 2: Intrusion Detection and Response Systems:
+   :caption: Tutorial 2: Intrusion Detection:
 
    tutorial_notebooks/tutorial2_anomaly_detection/tutorial2_anomaly_detection
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Tutorial 3: Evading Machine Learning-based IDS:
+   :caption: Tutorial 3: Evading ML-IDS:
 
 
 .. toctree::

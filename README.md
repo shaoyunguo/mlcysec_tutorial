@@ -68,7 +68,7 @@ If you find the tutorials helpful, please cite this course as:
 ```bibtex
 @misc{landolt2025_mlcysec,
   title        = {CISPA Machine Learning in Cybersecurity},
-  author       = {Christoph R. Landolt},
+  author       = {Christoph R. Landolt and Mario Fritz},
   year         = {2025},
-  howpublished = {\url{https://cms.cispa.saarland/mlcysec_ws25/}},
+  howpublished = {\url{https://christophlandolt.com/mlcysec_notebooks/}},
 }
